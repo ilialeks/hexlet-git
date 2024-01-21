@@ -1,3 +1,0 @@
-Hello, Ilia!
-xyz
-abcd
